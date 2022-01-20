@@ -1,0 +1,15 @@
+C:\Promact\Training\C-Sharp\AsyncAssgn\obj\Debug\net6.0\AsyncAssgn.csproj.AssemblyReference.cache
+C:\Promact\Training\C-Sharp\AsyncAssgn\obj\Debug\net6.0\AsyncAssgn.GeneratedMSBuildEditorConfig.editorconfig
+C:\Promact\Training\C-Sharp\AsyncAssgn\obj\Debug\net6.0\AsyncAssgn.AssemblyInfoInputs.cache
+C:\Promact\Training\C-Sharp\AsyncAssgn\obj\Debug\net6.0\AsyncAssgn.AssemblyInfo.cs
+C:\Promact\Training\C-Sharp\AsyncAssgn\obj\Debug\net6.0\AsyncAssgn.csproj.CoreCompileInputs.cache
+C:\Promact\Training\C-Sharp\AsyncAssgn\bin\Debug\net6.0\AsyncAssgn.exe
+C:\Promact\Training\C-Sharp\AsyncAssgn\bin\Debug\net6.0\AsyncAssgn.deps.json
+C:\Promact\Training\C-Sharp\AsyncAssgn\bin\Debug\net6.0\AsyncAssgn.runtimeconfig.json
+C:\Promact\Training\C-Sharp\AsyncAssgn\bin\Debug\net6.0\AsyncAssgn.dll
+C:\Promact\Training\C-Sharp\AsyncAssgn\bin\Debug\net6.0\ref\AsyncAssgn.dll
+C:\Promact\Training\C-Sharp\AsyncAssgn\bin\Debug\net6.0\AsyncAssgn.pdb
+C:\Promact\Training\C-Sharp\AsyncAssgn\obj\Debug\net6.0\AsyncAssgn.dll
+C:\Promact\Training\C-Sharp\AsyncAssgn\obj\Debug\net6.0\ref\AsyncAssgn.dll
+C:\Promact\Training\C-Sharp\AsyncAssgn\obj\Debug\net6.0\AsyncAssgn.pdb
+C:\Promact\Training\C-Sharp\AsyncAssgn\obj\Debug\net6.0\AsyncAssgn.genruntimeconfig.cache
